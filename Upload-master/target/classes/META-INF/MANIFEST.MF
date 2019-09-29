@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: updafile
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: know
+Implementation-Vendor-Id: com.yyy
+Build-Jdk: 1.8.0_144
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/updafile
+Created-By: Maven Integration for Eclipse
+
